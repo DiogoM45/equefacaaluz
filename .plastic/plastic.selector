@@ -1,0 +1,4 @@
+repository "equefacaaluz/equefacaaluz@4674064391843@cloud"
+  path "/"
+    br "/main"
+    co "/main"
